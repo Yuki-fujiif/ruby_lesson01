@@ -31,3 +31,5 @@
 #0608 require_relativeで別のファイルを読み込む
 
 #0610 bundle gem awesome_print　見やすい！
+
+#0610 sinatra　uri　html取得 json
