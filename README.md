@@ -33,3 +33,5 @@
 #0610 bundle gem awesome_print　見やすい！
 
 #0610 sinatra　uri　html取得 json
+
+#0611 sinatra おみくじ HTTP POSTメゾット
