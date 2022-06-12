@@ -35,3 +35,5 @@
 #0610 sinatra　uri　html取得 json
 
 #0611 sinatra おみくじ HTTP POSTメゾット
+
+#0612 例外処理
