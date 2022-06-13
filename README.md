@@ -37,3 +37,5 @@
 #0611 sinatra おみくじ HTTP POSTメゾット
 
 #0612 例外処理
+
+#0613 e.class e.message ARGV 
