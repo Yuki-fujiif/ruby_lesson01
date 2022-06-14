@@ -39,3 +39,5 @@
 #0612 例外処理
 
 #0613 e.class e.message ARGV 
+
+#0614 raiseメゾット　例外を発生させる。
