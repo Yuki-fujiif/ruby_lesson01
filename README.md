@@ -41,3 +41,5 @@
 #0613 e.class e.message ARGV 
 
 #0614 raiseメゾット　例外を発生させる。
+
+#0617 attr_reader attr_writer attr_accessor
