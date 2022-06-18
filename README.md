@@ -43,3 +43,5 @@
 #0614 raiseメゾット　例外を発生させる。
 
 #0617 attr_reader attr_writer attr_accessor
+
+#0618 /正規表現パターン/
