@@ -45,3 +45,5 @@
 #0617 attr_reader attr_writer attr_accessor
 
 #0618 /正規表現パターン/
+
+#0622 ブロックの仕組み、
